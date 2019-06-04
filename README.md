@@ -10,7 +10,7 @@ You can install game with static and dynamic linked libraries using appropriate 
 ![](ScreenShots/gameScreen.png)
 ![](ScreenShots/Settings.png)
 ![](ScreenShots/rec.png)
-<img src="viborMusiki.png" width="100" height="100")>
+<img src="ScreenShots/viborMusiki.png" width="100" height="100")>
 
 # Anno
 Yeah, code little bit messy 'cause it was one of the first my projects in university on SFML + C++
