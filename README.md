@@ -4,21 +4,21 @@ My replica of Doodle Jump
 # Installation and Source Code
 You can install game with static and dynamic linked libraries using appropriate installers in folders. You also can open Visual Studio 2017 project and compile code in source folders.
 
-## Screenshots
+# Screenshots
 
-# Main menu
+## Main menu
 ![](ScreenShots/mainMenu.png)
 
-# Game screen
+## Game screen
 ![](ScreenShots/gameScreen.png)
 
-# Settings
+## Settings
 ![](ScreenShots/Settings.png)
 
-# Records and champions
+## Records and champions
 ![](ScreenShots/rec.png)
 
-# Audio playlist
+## Audio playlist
 ![](ScreenShots/viborMusiki.png)
 
 # Anno
